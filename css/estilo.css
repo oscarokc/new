@@ -1,4 +1,4 @@
-/*normaliza  comentario  */
+﻿/*normaliza  comentario  */
 
 body
 {
@@ -39,6 +39,10 @@ body
 #contacto
 {
 	background: green;
+}
+#ayuda
+{
+	background: blue;
 }
 .comun
 {
